@@ -1,0 +1,35 @@
+* {
+	font-family: 'Poppins', 'Sans-serif';
+}
+
+body {
+	overflow-x: hidden;
+}
+
+.navbar {
+	background :#000;
+}
+
+#banner{
+	background :#000;
+}
+
+footer {
+	background :#000;
+}
+
+#footer-links {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer nav ul li {
+	float :left;
+}
+
+#footer-links > li  > a {
+	color :#999;
+	text-decoration: none;
+	margin-right: 10px;
+}
